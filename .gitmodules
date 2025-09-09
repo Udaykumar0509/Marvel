@@ -1,0 +1,6 @@
+[submodule "API"]
+	path = API
+	url = https://github.com/Udaykumar0509/API.git
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/Udaykumar0509/portfolio.git
